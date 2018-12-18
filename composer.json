@@ -1,7 +1,6 @@
 {
 	"name": "dealcar/php-src",
 	"description": "library for dealcar application",
-	"type": "library",
 	"keywords": ["dealcar", "deal", "car", "library"],
 	"readme": "",
 	"time": "2018-12-18",
