@@ -1,6 +1,7 @@
 {
 	"name": "dealcar/php-src",
 	"description": "library for dealcar application",
+	"type": "library",
 	"keywords": ["dealcar", "deal", "car", "library"],
 	"readme": "",
 	"time": "2018-12-18",
@@ -17,5 +18,10 @@
 	"prefer-stable": true,
 	"require": {
 		"php": "^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Dealcar\\": "src/"
+		}
 	}
 }
