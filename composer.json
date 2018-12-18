@@ -17,11 +17,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"require": {
-		"php": "^7.0"
-	},
-	"autoload": {
-		"psr-4": {
-			"Dealcar\\Api\\": "api/src/"
-		}
+		"php": "^7.0",
+		"dealcare/php-src-api": "1.0.0"
 	}
 }
