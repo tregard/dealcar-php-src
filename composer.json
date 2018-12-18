@@ -21,7 +21,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Dealcar\\": "src/"
+			"Dealcar\\Api\\": "api/src/"
 		}
 	}
 }
